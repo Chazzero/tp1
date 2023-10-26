@@ -1,0 +1,14 @@
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\bin\Debug\net6.0\Tp1.exe
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\bin\Debug\net6.0\Tp1.deps.json
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\bin\Debug\net6.0\Tp1.runtimeconfig.json
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\bin\Debug\net6.0\Tp1.dll
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\bin\Debug\net6.0\Tp1.pdb
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\Tp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\Tp1.AssemblyInfoInputs.cache
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\Tp1.AssemblyInfo.cs
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\Tp1.csproj.CoreCompileInputs.cache
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\Tp1.dll
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\refint\Tp1.dll
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\Tp1.pdb
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\Tp1.genruntimeconfig.cache
+E:\Riaz Big Mama\Documentos xd\Programacion\Programar 4.0\Beca Noris .NET\tps\tp1\Tp1\Tp1\obj\Debug\net6.0\ref\Tp1.dll
